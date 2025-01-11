@@ -19,8 +19,8 @@ User-friendly Interface: Implements a Gradio web interface for easy interaction 
 Technical Stack:-
 
 Python 3.10+
-1PyTorch for deep learning
-2YOLOv8 for object detection
+PyTorch for deep learning
+YOLOv8 for object detection
 OpenCV for image processing
 Gradio for the web interface
 Additional libraries: NumPy, torchvision, supervision
