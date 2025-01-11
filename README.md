@@ -1,4 +1,4 @@
-# Advanced Ambulance Detection System for Traffic Signal Optimization
+#  Ambulance Detection System for Traffic Signal Optimization
 Project Overview
 This project implements an intelligent traffic signal optimization system that automatically detects emergency vehicles (specifically ambulances) using multiple computer vision techniques. When an ambulance is detected, the system can automatically adjust traffic signals to prioritize emergency vehicle passage.
 Features
